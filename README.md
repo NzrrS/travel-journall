@@ -6,7 +6,7 @@ A React practice project with static pages. This project demonstrates the use of
 
 ## Demo
 
-You can see the live demo here: [Demo Link](https://nbusinesscardd.netlify.app/)
+You can see the live demo here: [Demo Link](https://nzrrs.github.io/travel-journall/)
 
 ## Features
 
