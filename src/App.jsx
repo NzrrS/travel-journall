@@ -13,9 +13,7 @@ export default function App() {
       // title={item.title}
       // dates={item.dates}
       // text={item.text}
-      entry={item} 
-
-      {...item}
+      entry={item}
     />
   ));
   return (
